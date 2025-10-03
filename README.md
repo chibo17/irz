@@ -1,2 +1,2 @@
 # irz
-Materiali za predavanja pri predmetu IRZ
+Materiali iz predavanj pri predmetu IRZ
