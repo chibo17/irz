@@ -1,0 +1,7 @@
+q0 a q1
+q0 b q0
+q1 a q1
+q1 b qF
+qF a qF
+qF b qF
+qF
