@@ -1,0 +1,11 @@
+{q0,q1,q3}
+{q0,q1,q3} b {}
+{q0,q1,q3} a {q2,qF}
+{} b {}
+{} a {}
+{q2,qF} b {qF}
+{q2,qF} a {}
+{qF} b {}
+{qF} a {}
+{q2,qF}
+{qF}

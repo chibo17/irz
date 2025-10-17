@@ -1,0 +1,7 @@
+q0 ε q1
+q1 a q2
+q1 ε q3
+q2 b qF
+q3 a qF
+qF ε q2
+qF
