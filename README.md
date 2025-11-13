@@ -9,4 +9,5 @@ Materiali s predavanj pri predmetu IRZ.
 3. Ekvivalenca končnih avtomatov, regularni izrazi
 4. Ekvivalenca reg. izrazov in končnih avtomatov, neregularnost
 5. Izrek Myhill-Nerode, uporaba in minimizacija avtomatov
+6. Skladovni avtomati in kontekstno neodvisne gramatike
 
