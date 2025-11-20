@@ -10,4 +10,5 @@ Materiali s predavanj pri predmetu IRZ.
 4. Ekvivalenca reg. izrazov in končnih avtomatov, neregularnost
 5. Izrek Myhill-Nerode, uporaba in minimizacija avtomatov
 6. Skladovni avtomati in kontekstno neodvisne gramatike
+7. Turingov stroj in razširitve, Church-Turingova teza
 
