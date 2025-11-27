@@ -11,4 +11,5 @@ Materiali s predavanj pri predmetu IRZ.
 5. Izrek Myhill-Nerode, uporaba in minimizacija avtomatov
 6. Skladovni avtomati in kontekstno neodvisne gramatike
 7. Turingov stroj in razširitve, Church-Turingova teza
+8. (Ne)odločljivost
 
