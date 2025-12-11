@@ -12,5 +12,6 @@ Materiali s predavanj pri predmetu IRZ.
 6. Skladovni avtomati in kontekstno neodvisne gramatike
 7. Turingov stroj in razširitve, Church-Turingova teza
 8. (Ne)odločljivost
-9. Prevedbe
+9. Prevedbe in PKP
+10. Časovna zahtevnost
 
