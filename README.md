@@ -14,4 +14,5 @@ Materiali s predavanj pri predmetu IRZ.
 8. (Ne)odločljivost
 9. Prevedbe in PKP
 10. Časovna zahtevnost
+11. Cook-Levinov izrek
 
