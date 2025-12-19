@@ -1,0 +1,18 @@
+% A1: Vsaj en slot za vsak predmet
+( (X1_A | X1_B | X1_F) & (X2_B | X2_C) & (X3_C | X3_D | X3_F) & (X4_B | X4_D | X4_F) )
+
+% A2: Največ en slot za vsak predmet
+& ( (!X1_A | !X1_B) & (!X1_A | !X1_F) & (!X1_B | !X1_F)
+    & (!X2_B | !X2_C)
+    & (!X3_C | !X3_D) & (!X3_C | !X3_F) & (!X3_D | !X3_F)
+    & (!X4_B | !X4_D) & (!X4_B | !X4_F) & (!X4_D | !X4_F) )
+
+% B: Največ en predmet za vsak slot
+& ( % Termin B (P1, P2, P4)
+    (!X1_B | !X2_B) & (!X1_B | !X4_B) & (!X2_B | !X4_B)
+    % Termin C (P2, P3)
+    & (!X2_C | !X3_C)
+    % Termin D (P3, P4)
+    & (!X3_D | !X4_D)
+    % Termin F (P1, P3, P4)
+    & (!X1_F | !X3_F) & (!X1_F | !X4_F) & (!X3_F | !X4_F) )
